@@ -1,6 +1,14 @@
-## Available Scripts
+## AllMovie Db
 
-In the project directory, you can run:
+### A Full featured app that uses the api from https://themoviedb.org/ to provide data of movies, and tv shows.
+
+possibility to search for specific movie or people or tv show.
+get details of above mentioned.
+check top currently.
+popular / top ranked.
+and many more
+
+This is an on going project.
 
 ### `yarn start`
 
